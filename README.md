@@ -16,14 +16,14 @@ Colors:
 
 Square Logo Samples:
 ---
-![logo samples](https://raw.github.com/civilservice/artwork/master/square/sample.png "logo samples")
+![logo samples](https://raw.github.com/civilserviceusa/artwork/master/square/sample.png "logo samples")
 
 
 Rectangle Logo Samples:
 ---
-![logo samples](https://raw.github.com/civilservice/artwork/master/rectangle/sample.png "logo samples")
+![logo samples](https://raw.github.com/civilserviceusa/artwork/master/rectangle/sample.png "logo samples")
 
 
 Icon Samples:
 ---
-![icon samples](https://raw.github.com/civilservice/artwork/master/icon/sample.png "icon samples")
+![icon samples](https://raw.github.com/civilserviceusa/artwork/master/icon/sample.png "icon samples")
